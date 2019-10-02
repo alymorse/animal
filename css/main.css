@@ -1,0 +1,90 @@
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+}
+
+.two_col {
+    width: 520px;
+    padding: 10px;
+    float: left;
+}
+H1{
+    font-family: 'RALEWAY', sans-serif;
+	font-size: 4em;
+	font-weight:  600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 1em;
+	background-color: slategray;
+	margin-bottom: 50px;
+	padding:25PX; white-space; 
+	
+    color: white;
+}
+.id_jumping {
+    margin-top: 50px;
+    text-align: center;
+    display:block;
+}
+.id_jumping a {
+    font-family: "Raleway Bold", sans-serif;
+    color: midnightblue;
+    font-size: 1.3em;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+.id_jumping a:hover {
+    color:darkblue;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'raleway', sans-serif;
+    font-size: 1.9em;   
+    font-weight: 600;
+    color: midnightblue;
+    margin-bottom: .5em;
+    text-align: center; 
+    padding-top: 50px;
+  
+        
+}
+h3 {
+    
+   
+}
+p{
+    font-family: 'raleway extralight', sans-serif;
+    font-size: 1em;   
+    font-weight: 300;
+    font-style: ;
+    color: slategray;
+    text-align: left; 
+}
+
+.clear {
+    clear: both;
+}
+
+.bar {
+    width: 600px;
+    height: 5px;
+    background-color: whitesmoke;  
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+footer p{
+    font-family: 'raleway', sans-serif;
+    font-size: 1em;   
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    background-color: slategray;
+    padding: 10px;
+}
+    
